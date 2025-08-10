@@ -2,4 +2,5 @@ PWM stands for Pulse Width Modulation. It is a technique used to control the amo
 
 The design consists of basic and simple blocks as counter , timer , comparator and D flip flop to make the output syncrhonized with the system clock. 
 
+Link to the project documentation : https://drive.google.com/file/d/1po_3soIZV56gZAdUXEoINR9KftQxvdw_/view?usp=sharing 
 <img width="780" height="265" alt="final_improved_pwm drawio (1)" src="https://github.com/user-attachments/assets/317f345f-50b4-4db5-a220-bf87bb4c060a" />
